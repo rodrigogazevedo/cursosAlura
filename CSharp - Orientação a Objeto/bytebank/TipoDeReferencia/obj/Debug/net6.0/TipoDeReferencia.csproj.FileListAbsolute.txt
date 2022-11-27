@@ -1,0 +1,15 @@
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\TipoDeReferencia\bin\Debug\net6.0\TipoDeReferencia.exe
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\TipoDeReferencia\bin\Debug\net6.0\TipoDeReferencia.deps.json
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\TipoDeReferencia\bin\Debug\net6.0\TipoDeReferencia.runtimeconfig.json
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\TipoDeReferencia\bin\Debug\net6.0\TipoDeReferencia.dll
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\TipoDeReferencia\bin\Debug\net6.0\TipoDeReferencia.pdb
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\TipoDeReferencia\obj\Debug\net6.0\TipoDeReferencia.csproj.AssemblyReference.cache
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\TipoDeReferencia\obj\Debug\net6.0\TipoDeReferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\TipoDeReferencia\obj\Debug\net6.0\TipoDeReferencia.AssemblyInfoInputs.cache
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\TipoDeReferencia\obj\Debug\net6.0\TipoDeReferencia.AssemblyInfo.cs
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\TipoDeReferencia\obj\Debug\net6.0\TipoDeReferencia.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\TipoDeReferencia\obj\Debug\net6.0\TipoDeReferencia.dll
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\TipoDeReferencia\obj\Debug\net6.0\refint\TipoDeReferencia.dll
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\TipoDeReferencia\obj\Debug\net6.0\TipoDeReferencia.pdb
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\TipoDeReferencia\obj\Debug\net6.0\TipoDeReferencia.genruntimeconfig.cache
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\TipoDeReferencia\obj\Debug\net6.0\ref\TipoDeReferencia.dll

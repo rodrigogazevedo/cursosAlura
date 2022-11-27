@@ -1,0 +1,15 @@
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\Desafio - Supermercado Menor Preco\supermercadomenorpreco\supermercadomenorpreco\bin\Debug\net6.0\supermercadomenorpreco.exe
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\Desafio - Supermercado Menor Preco\supermercadomenorpreco\supermercadomenorpreco\bin\Debug\net6.0\supermercadomenorpreco.deps.json
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\Desafio - Supermercado Menor Preco\supermercadomenorpreco\supermercadomenorpreco\bin\Debug\net6.0\supermercadomenorpreco.runtimeconfig.json
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\Desafio - Supermercado Menor Preco\supermercadomenorpreco\supermercadomenorpreco\bin\Debug\net6.0\supermercadomenorpreco.dll
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\Desafio - Supermercado Menor Preco\supermercadomenorpreco\supermercadomenorpreco\bin\Debug\net6.0\supermercadomenorpreco.pdb
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\Desafio - Supermercado Menor Preco\supermercadomenorpreco\supermercadomenorpreco\obj\Debug\net6.0\supermercadomenorpreco.csproj.AssemblyReference.cache
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\Desafio - Supermercado Menor Preco\supermercadomenorpreco\supermercadomenorpreco\obj\Debug\net6.0\supermercadomenorpreco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\Desafio - Supermercado Menor Preco\supermercadomenorpreco\supermercadomenorpreco\obj\Debug\net6.0\supermercadomenorpreco.AssemblyInfoInputs.cache
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\Desafio - Supermercado Menor Preco\supermercadomenorpreco\supermercadomenorpreco\obj\Debug\net6.0\supermercadomenorpreco.AssemblyInfo.cs
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\Desafio - Supermercado Menor Preco\supermercadomenorpreco\supermercadomenorpreco\obj\Debug\net6.0\supermercadomenorpreco.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\Desafio - Supermercado Menor Preco\supermercadomenorpreco\supermercadomenorpreco\obj\Debug\net6.0\supermercadomenorpreco.dll
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\Desafio - Supermercado Menor Preco\supermercadomenorpreco\supermercadomenorpreco\obj\Debug\net6.0\refint\supermercadomenorpreco.dll
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\Desafio - Supermercado Menor Preco\supermercadomenorpreco\supermercadomenorpreco\obj\Debug\net6.0\supermercadomenorpreco.pdb
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\Desafio - Supermercado Menor Preco\supermercadomenorpreco\supermercadomenorpreco\obj\Debug\net6.0\supermercadomenorpreco.genruntimeconfig.cache
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\Desafio - Supermercado Menor Preco\supermercadomenorpreco\supermercadomenorpreco\obj\Debug\net6.0\ref\supermercadomenorpreco.dll

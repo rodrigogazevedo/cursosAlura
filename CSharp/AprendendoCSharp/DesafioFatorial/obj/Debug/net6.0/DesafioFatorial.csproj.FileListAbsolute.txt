@@ -1,0 +1,15 @@
+C:\Users\rodrigo.azevedo\Documents\Estudo\AprendendoCSharp\DesafioFatorial\bin\Debug\net6.0\DesafioFatorial.exe
+C:\Users\rodrigo.azevedo\Documents\Estudo\AprendendoCSharp\DesafioFatorial\bin\Debug\net6.0\DesafioFatorial.deps.json
+C:\Users\rodrigo.azevedo\Documents\Estudo\AprendendoCSharp\DesafioFatorial\bin\Debug\net6.0\DesafioFatorial.runtimeconfig.json
+C:\Users\rodrigo.azevedo\Documents\Estudo\AprendendoCSharp\DesafioFatorial\bin\Debug\net6.0\DesafioFatorial.dll
+C:\Users\rodrigo.azevedo\Documents\Estudo\AprendendoCSharp\DesafioFatorial\bin\Debug\net6.0\DesafioFatorial.pdb
+C:\Users\rodrigo.azevedo\Documents\Estudo\AprendendoCSharp\DesafioFatorial\obj\Debug\net6.0\DesafioFatorial.csproj.AssemblyReference.cache
+C:\Users\rodrigo.azevedo\Documents\Estudo\AprendendoCSharp\DesafioFatorial\obj\Debug\net6.0\DesafioFatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigo.azevedo\Documents\Estudo\AprendendoCSharp\DesafioFatorial\obj\Debug\net6.0\DesafioFatorial.AssemblyInfoInputs.cache
+C:\Users\rodrigo.azevedo\Documents\Estudo\AprendendoCSharp\DesafioFatorial\obj\Debug\net6.0\DesafioFatorial.AssemblyInfo.cs
+C:\Users\rodrigo.azevedo\Documents\Estudo\AprendendoCSharp\DesafioFatorial\obj\Debug\net6.0\DesafioFatorial.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.azevedo\Documents\Estudo\AprendendoCSharp\DesafioFatorial\obj\Debug\net6.0\DesafioFatorial.dll
+C:\Users\rodrigo.azevedo\Documents\Estudo\AprendendoCSharp\DesafioFatorial\obj\Debug\net6.0\refint\DesafioFatorial.dll
+C:\Users\rodrigo.azevedo\Documents\Estudo\AprendendoCSharp\DesafioFatorial\obj\Debug\net6.0\DesafioFatorial.pdb
+C:\Users\rodrigo.azevedo\Documents\Estudo\AprendendoCSharp\DesafioFatorial\obj\Debug\net6.0\DesafioFatorial.genruntimeconfig.cache
+C:\Users\rodrigo.azevedo\Documents\Estudo\AprendendoCSharp\DesafioFatorial\obj\Debug\net6.0\ref\DesafioFatorial.dll

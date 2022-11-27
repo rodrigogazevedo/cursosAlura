@@ -1,0 +1,15 @@
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\ValorPadraoExibirCampos\bin\Debug\net6.0\ValorPadraoExibirCampos.exe
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\ValorPadraoExibirCampos\bin\Debug\net6.0\ValorPadraoExibirCampos.deps.json
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\ValorPadraoExibirCampos\bin\Debug\net6.0\ValorPadraoExibirCampos.runtimeconfig.json
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\ValorPadraoExibirCampos\bin\Debug\net6.0\ValorPadraoExibirCampos.dll
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\ValorPadraoExibirCampos\bin\Debug\net6.0\ValorPadraoExibirCampos.pdb
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\ValorPadraoExibirCampos\obj\Debug\net6.0\ValorPadraoExibirCampos.csproj.AssemblyReference.cache
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\ValorPadraoExibirCampos\obj\Debug\net6.0\ValorPadraoExibirCampos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\ValorPadraoExibirCampos\obj\Debug\net6.0\ValorPadraoExibirCampos.AssemblyInfoInputs.cache
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\ValorPadraoExibirCampos\obj\Debug\net6.0\ValorPadraoExibirCampos.AssemblyInfo.cs
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\ValorPadraoExibirCampos\obj\Debug\net6.0\ValorPadraoExibirCampos.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\ValorPadraoExibirCampos\obj\Debug\net6.0\ValorPadraoExibirCampos.dll
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\ValorPadraoExibirCampos\obj\Debug\net6.0\refint\ValorPadraoExibirCampos.dll
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\ValorPadraoExibirCampos\obj\Debug\net6.0\ValorPadraoExibirCampos.pdb
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\ValorPadraoExibirCampos\obj\Debug\net6.0\ValorPadraoExibirCampos.genruntimeconfig.cache
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\ValorPadraoExibirCampos\obj\Debug\net6.0\ref\ValorPadraoExibirCampos.dll
