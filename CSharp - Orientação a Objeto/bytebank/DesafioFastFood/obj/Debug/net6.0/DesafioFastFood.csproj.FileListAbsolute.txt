@@ -1,0 +1,15 @@
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\DesafioFastFood\obj\Debug\net6.0\DesafioFastFood.csproj.AssemblyReference.cache
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\DesafioFastFood\obj\Debug\net6.0\DesafioFastFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\DesafioFastFood\obj\Debug\net6.0\DesafioFastFood.AssemblyInfoInputs.cache
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\DesafioFastFood\obj\Debug\net6.0\DesafioFastFood.AssemblyInfo.cs
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\DesafioFastFood\obj\Debug\net6.0\DesafioFastFood.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\DesafioFastFood\bin\Debug\net6.0\DesafioFastFood.exe
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\DesafioFastFood\bin\Debug\net6.0\DesafioFastFood.deps.json
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\DesafioFastFood\bin\Debug\net6.0\DesafioFastFood.runtimeconfig.json
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\DesafioFastFood\bin\Debug\net6.0\DesafioFastFood.dll
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\DesafioFastFood\bin\Debug\net6.0\DesafioFastFood.pdb
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\DesafioFastFood\obj\Debug\net6.0\DesafioFastFood.dll
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\DesafioFastFood\obj\Debug\net6.0\refint\DesafioFastFood.dll
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\DesafioFastFood\obj\Debug\net6.0\DesafioFastFood.pdb
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\DesafioFastFood\obj\Debug\net6.0\DesafioFastFood.genruntimeconfig.cache
+C:\Users\rodrigo.azevedo\Documents\Estudo\CSharp - Orientação a Objeto\bytebank\DesafioFastFood\obj\Debug\net6.0\ref\DesafioFastFood.dll
