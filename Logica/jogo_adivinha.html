@@ -17,17 +17,26 @@
 	var numeroLimite = parseInt(prompt("Digite o limite do número gerado"));
 	
 	var numeroPensado = sorteia(numeroLimite);
-	var chute = parseInt(prompt("Digite seu chute!"));
 	
-	if (chute == numeroPensado) {
-		mostra("Você acertou!");
-	} else {
-		if (chute > numeroPensado) {
-			mostra("Você errou, o numero pensado é menor do que seu chute");
+	var tentativas = 1;
+	
+	while (tentativas <= 3) {
+		var chute = parseInt(prompt("Digite seu chute!"));
+	
+		if (chute == numeroPensado) {
+			mostra("Você acertou!");
+			break;
+		} else {
+			if (chute > numeroPensado) {
+				mostra("Você errou, o numero pensado é menor do que seu chute");
+			}
+			else {
+				mostra("Você errou, o numero pensado é maior do que seu chute");
+			}
 		}
-		else {
-			mostra("Você errou, o numero pensado é maior do que seu chute");
-		}
+		tentativas++;
 	}
+	
+	mostra ("FIM");
 
 </script>
